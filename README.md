@@ -1,1 +1,7 @@
-# ai-leanring
+# 我的 AI 学习记录
+
+我是人工智能专业大二学生，这里记录我的 Python 和 AI 学习过程。
+
+## 本周目标
+- 学会运行一段 Python 代码
+- 每周记录一次学习内容# ai-leanring
